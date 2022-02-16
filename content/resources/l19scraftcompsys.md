@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Slides for presentation of Lecture 19.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-851-satellite-engineering-fall-2003/0d034db87d5bfb5a4ddd0ba982e4d814_l19scraftcompsys.pdf
+file: /media/courses/16-851-satellite-engineering-fall-2003/0d034db87d5bfb5a4ddd0ba982e4d814_l19scraftcompsys.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l19scraftcompsys.pdf
 uid: 0d034db8-7d5b-fb5a-4ddd-0ba982e4d814

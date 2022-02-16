@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Slides for presentation of Lecture 12.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-851-satellite-engineering-fall-2003/27500dce1edce8ebe405bf1f3efaa143_l12_ff2_resizing.pdf
+file: /media/courses/16-851-satellite-engineering-fall-2003/27500dce1edce8ebe405bf1f3efaa143_l12_ff2_resizing.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l12_ff2_resizing.pdf
 uid: 27500dce-1edc-e8eb-e405-bf1f3efaa143

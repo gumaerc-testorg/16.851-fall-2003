@@ -6,8 +6,13 @@ description: 'Problem set.
   is an essential part of the spacecraft mission. Determine the optimum communication
   frequency and optimum data rate that minimized the combined mass requirements of
   telemetry, communications, and power subsystems.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-851-satellite-engineering-fall-2003/198cd365118b566cf42583b9f140cfbd_ps4_cs_ps4.pdf
+file: /media/courses/16-851-satellite-engineering-fall-2003/198cd365118b566cf42583b9f140cfbd_ps4_cs_ps4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps4_cs_ps4.pdf
 uid: 198cd365-118b-566c-f425-83b9f140cfbd
