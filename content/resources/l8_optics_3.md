@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3b549c67-355e-4f8c-928c-487a6fa37853
 resourcetype: Document
 title: l8_optics_3.pdf
 uid: 89884fbe-e3e2-0ea5-3f32-8a3c6b6a23b4

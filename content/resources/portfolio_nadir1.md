@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2648f3a7-7c87-82af-67ba-bee07c3b3abc
 resourcetype: Document
 title: portfolio_nadir1.pdf
 uid: 533672f8-4f6c-6e30-5473-0b672d53c87b

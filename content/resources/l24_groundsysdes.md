@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3b549c67-355e-4f8c-928c-487a6fa37853
 resourcetype: Document
 title: l24_groundsysdes.pdf
 uid: 0464a450-b098-9f18-f7d7-6e4d64d3b06f

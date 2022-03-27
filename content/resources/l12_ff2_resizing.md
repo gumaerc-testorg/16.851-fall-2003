@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3b549c67-355e-4f8c-928c-487a6fa37853
 resourcetype: Document
 title: l12_ff2_resizing.pdf
 uid: 27500dce-1edc-e8eb-e405-bf1f3efaa143

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3b549c67-355e-4f8c-928c-487a6fa37853
 resourcetype: Document
 title: l11_ff_1_imaging.pdf
 uid: 28c06261-909a-190f-d771-5ef0e2a2a2e8

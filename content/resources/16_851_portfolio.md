@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 2648f3a7-7c87-82af-67ba-bee07c3b3abc
 resourcetype: Document
 title: 16_851_portfolio.pdf
 uid: 1b24b751-674a-5d7d-b79c-ad58eefe2ade

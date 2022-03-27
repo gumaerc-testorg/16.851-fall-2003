@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 3b549c67-355e-4f8c-928c-487a6fa37853
 resourcetype: Document
 title: l19scraftcompsys.pdf
 uid: 0d034db8-7d5b-fb5a-4ddd-0ba982e4d814

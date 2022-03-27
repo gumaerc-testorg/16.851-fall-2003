@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 990a5b0b-e37f-a172-5570-bb01c22305b6
 resourcetype: Document
 title: syllabus_2003.pdf
 uid: 36139108-7687-5e36-7d40-18ce091ccf4c
