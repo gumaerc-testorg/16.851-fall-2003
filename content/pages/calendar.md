@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: e886cdbc-87fa-6c02-7e55-251fed298508
 ---
 
-The table below is more accurate than the calendar found in the course syllabus. Problem set evaluation due dates are described in the [assignments]({{< baseurl >}}/pages/assignments) section.
+The table below is more accurate than the calendar found in the course syllabus. Problem set evaluation due dates are described in the {{% resource_link 54e4e27d-f3ae-708b-3759-0e244c163c0f "assignments" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}

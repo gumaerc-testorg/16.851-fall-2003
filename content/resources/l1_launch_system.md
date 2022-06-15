@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for presentation of Lecture 1.
-file: /media/courses/16-851-satellite-engineering-fall-2003/50f5d348d79d68dc5ce2b39b5af16283_l1_launch_system.pdf
+file: /courses/16-851-satellite-engineering-fall-2003/50f5d348d79d68dc5ce2b39b5af16283_l1_launch_system.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: l1_launch_system.pdf
 uid: 50f5d348-d79d-68dc-5ce2-b39b5af16283
 ---
+Slides for presentation of Lecture 1.
+

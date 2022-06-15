@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for presentation of Lecture 19.
-file: /media/courses/16-851-satellite-engineering-fall-2003/0d034db87d5bfb5a4ddd0ba982e4d814_l19scraftcompsys.pdf
+file: /courses/16-851-satellite-engineering-fall-2003/0d034db87d5bfb5a4ddd0ba982e4d814_l19scraftcompsys.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: l19scraftcompsys.pdf
 uid: 0d034db8-7d5b-fb5a-4ddd-0ba982e4d814
 ---
+Slides for presentation of Lecture 19.
+
