@@ -5,6 +5,7 @@ file: /courses/16-851-satellite-engineering-fall-2003/48d9bf8fdee0a10cafa7578bac
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l15_costmodellec.pdf
 uid: 48d9bf8f-dee0-a10c-afa7-578bac23d73f
 ---
 Slides for presentation of Lecture 15.
-

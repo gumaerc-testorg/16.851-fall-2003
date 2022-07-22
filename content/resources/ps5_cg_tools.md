@@ -5,6 +5,7 @@ file: /courses/16-851-satellite-engineering-fall-2003/3fe083e63b780c311843205fb7
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps5_cg_tools.zip
 uid: 3fe083e6-3b78-0c31-1843-205fb7ad937e
 ---
 Supporting Tools File for Problem Set 5: Chung
-

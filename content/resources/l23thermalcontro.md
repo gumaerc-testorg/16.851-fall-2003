@@ -5,6 +5,7 @@ file: /courses/16-851-satellite-engineering-fall-2003/e3a84cc153960fff8d55480fe2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l23thermalcontro.pdf
 uid: e3a84cc1-5396-0fff-8d55-480fe228bbcc
 ---
 Slides for presentation of Lecture 23.
-

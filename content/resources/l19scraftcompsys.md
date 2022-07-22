@@ -5,6 +5,7 @@ file: /courses/16-851-satellite-engineering-fall-2003/0d034db87d5bfb5a4ddd0ba982
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l19scraftcompsys.pdf
 uid: 0d034db8-7d5b-fb5a-4ddd-0ba982e4d814
 ---
 Slides for presentation of Lecture 19.
-

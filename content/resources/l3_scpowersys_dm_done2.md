@@ -5,6 +5,7 @@ file: /courses/16-851-satellite-engineering-fall-2003/2c8a1a136db0e366ae8d1a1e29
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l3_scpowersys_dm_done2.pdf
 uid: 2c8a1a13-6db0-e366-ae8d-1a1e2995a505
 ---
 Slides for presentation of Lecture 3.
-

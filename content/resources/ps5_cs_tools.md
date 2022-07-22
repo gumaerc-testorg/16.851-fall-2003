@@ -5,6 +5,7 @@ file: /courses/16-851-satellite-engineering-fall-2003/38fbe62b253cc14badbd517e12
 file_type: application/zip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps5_cs_tools.zip
 uid: 38fbe62b-253c-c14b-adbd-517e129c9e33
 ---
 Supporting Tools File for Problem Set 5: Chynes
-

@@ -5,6 +5,7 @@ file: /courses/16-851-satellite-engineering-fall-2003/7bd38a14f1fd0c42340a979661
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l10_emformflight.pdf
 uid: 7bd38a14-f1fd-0c42-340a-97966141afc6
 ---
 Slides for presentation of Lecture 10.
-

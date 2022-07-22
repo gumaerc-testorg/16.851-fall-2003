@@ -5,6 +5,7 @@ file: /courses/16-851-satellite-engineering-fall-2003/366250c43b9cc22cbaabac6b07
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l14_structures.pdf
 uid: 366250c4-3b9c-c22c-baab-ac6b071ba954
 ---
 Slides for presentation of Lecture 14.
-

@@ -5,6 +5,7 @@ file: /courses/16-851-satellite-engineering-fall-2003/4d385d5034d5812233944921d5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: l2_orbital_mech.pdf
 uid: 4d385d50-34d5-8122-3394-4921d570b067
 ---
 Handwritten notes from Lecture 2.
-

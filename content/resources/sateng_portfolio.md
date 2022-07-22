@@ -5,6 +5,7 @@ file: /courses/16-851-satellite-engineering-fall-2003/9cb42c582321b7bb9279c6b095
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: sateng_portfolio.pdf
 uid: 9cb42c58-2321-b7bb-9279-c6b0957fe085
 ---
 Sample student portfolio.
-

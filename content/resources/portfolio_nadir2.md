@@ -5,6 +5,7 @@ file: /courses/16-851-satellite-engineering-fall-2003/8d0fbfb83d878206fdc0f970eb
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: portfolio_nadir2.pdf
 uid: 8d0fbfb8-3d87-8206-fdc0-f970eb993e48
 ---
 Sample student portfolio courtesy of Bill Nadir.
-

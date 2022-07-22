@@ -5,6 +5,7 @@ file: /courses/16-851-satellite-engineering-fall-2003/1b24b751674a5d7db79cad58ee
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 16_851_portfolio.pdf
 uid: 1b24b751-674a-5d7d-b79c-ad58eefe2ade
 ---
 Sample student portfolio courtesy of Matthew Richards.
-

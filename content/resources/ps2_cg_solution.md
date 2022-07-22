@@ -8,6 +8,7 @@ file: /courses/16-851-satellite-engineering-fall-2003/e9e1eb82a6e428358fb07c1ee0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: ps2_cg_solution.pdf
 uid: e9e1eb82-a6e4-2835-8fb0-7c1ee0fd2c3c
 ---
 Problem set and solution courtesy of Seung Chung and Namiko Yamamoto. Used with permission. Problem statement: Design a tool that compares a set of feasible orbit transfer and propulsion system combinations for a given mission requirement, in terms of desired orbit transfers.
-
