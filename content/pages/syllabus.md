@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 990a5b0b-e37f-a172-5570-bb01c22305b6
 ---
@@ -9,9 +12,9 @@ Course Meeting Times
 
 Lectures: 2 sessions / week, 1.5 hours / session
 
-This section contains the course syllabus.  A version is also available as a PDF.  The PDF version also contains portfolio information and the original course schedule, which was subject to change.  This site's [calendar]({{< baseurl >}}/pages/calendar) section is a more accurate record of the class sessions.  The same portfolio information may be found in the [projects]({{< baseurl >}}/pages/projects) section.
+This section contains the course syllabus.  A version is also available as a PDF.  The PDF version also contains portfolio information and the original course schedule, which was subject to change.  This site's {{% resource_link e886cdbc-87fa-6c02-7e55-251fed298508 "calendar" %}} section is a more accurate record of the class sessions.  The same portfolio information may be found in the {{% resource_link 2648f3a7-7c87-82af-67ba-bee07c3b3abc "projects" %}} section.
 
-Fall 2003 Course Syllabus ([PDF]({{< baseurl >}}/resources/syllabus_2003))
+Fall 2003 Course Syllabus ({{% resource_link 36139108-7687-5e36-7d40-18ce091ccf4c "PDF" %}})
 
 Table of Contents
 -----------------

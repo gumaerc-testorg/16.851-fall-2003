@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 2648f3a7-7c87-82af-67ba-bee07c3b3abc
 ---
@@ -34,8 +38,8 @@ PORTFOLIOS
 Bill Nadir
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1 of 2 - 3.8 MB]({{< baseurl >}}/resources/portfolio_nadir1))  
-([PDF 2 of 2 - 2.8 MB]({{< baseurl >}}/resources/portfolio_nadir2))
+({{% resource_link 533672f8-4f6c-6e30-5473-0b672d53c87b "PDF 1 of 2 - 3.8 MB" %}})  
+({{% resource_link 8d0fbfb8-3d87-8206-fdc0-f970eb993e48 "PDF 2 of 2 - 2.8 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +48,7 @@ Bill Nadir
 Matthew Richards
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.4 MB]({{< baseurl >}}/resources/16_851_portfolio)) (Courtesy of Matthew Richards. Used with permission.)
+({{% resource_link 1b24b751-674a-5d7d-b79c-ad58eefe2ade "PDF - 1.4 MB" %}}) (Courtesy of Matthew Richards. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +57,7 @@ Matthew Richards
 Anna Silbovitz
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/sateng_portfolio))
+({{% resource_link 9cb42c58-2321-b7bb-9279-c6b0957fe085 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
