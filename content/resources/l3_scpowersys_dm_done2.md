@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for presentation of Lecture 3.
 file: /courses/16-851-satellite-engineering-fall-2003/2c8a1a136db0e366ae8d1a1e2995a505_l3_scpowersys_dm_done2.pdf
+file_size: 276203
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

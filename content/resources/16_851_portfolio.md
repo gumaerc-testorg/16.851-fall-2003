@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample student portfolio courtesy of Matthew Richards.
 file: /courses/16-851-satellite-engineering-fall-2003/1b24b751674a5d7db79cad58eefe2ade_16_851_portfolio.pdf
+file_size: 1447456
 file_type: application/pdf
 learning_resource_types:
 - Projects

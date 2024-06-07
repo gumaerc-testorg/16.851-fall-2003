@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample student portfolio.
 file: /courses/16-851-satellite-engineering-fall-2003/9cb42c582321b7bb9279c6b0957fe085_sateng_portfolio.pdf
+file_size: 189992
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -5,6 +5,7 @@ description: 'Supporting files.
   The ZIP file contains: test.m, Scenario.m, compute_feasible_circular_LEO_test.m,
   compute_feasible_circular_LEO.m, and compute_communication_time.m.'
 file: /courses/16-851-satellite-engineering-fall-2003/3d2fae800a40cdc26e4cd7f7cfae4fd2_ps4_cg_tools.zip
+file_size: 6877
 file_type: application/zip
 learning_resource_types:
 - Assignments
