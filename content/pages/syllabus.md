@@ -210,9 +210,9 @@ The following textbooks provide resource material for this course:
 
 ### {{< anchor "7_2" >}}{{< /anchor >}}7.2 Satellite Tool Kit®
 
-Each student will be provided with a copy of Satellite Tool Kit®, an orbital analysis software package developed by Analytical Graphics, Inc. Each student will receive instructions on how to access the full capabilities afforded by MIT's educational license with Analytical Graphics, Inc. The STK® program is yours to keep (although I would like you to return the CD to me once you have installed the software on your computer). The educational license will expire at the end of the course, terminating your access to the tools beyond the basic functionality. The free version of STK® is always available by contacting AGI or on their {{% resource_link "e1d993db-bb49-4fba-8527-d814c90c66e1" "Web site" %}}.
+Each student will be provided with a copy of Satellite Tool Kit®, an orbital analysis software package developed by Analytical Graphics, Inc. Each student will receive instructions on how to access the full capabilities afforded by MIT's educational license with Analytical Graphics, Inc. The STK® program is yours to keep (although I would like you to return the CD to me once you have installed the software on your computer). The educational license will expire at the end of the course, terminating your access to the tools beyond the basic functionality. The free version of STK® is always available by contacting AGI or on their [Web site](https://www.agi.com/products/engineering-tools).
 
 ### {{< anchor "7_3" >}}{{< /anchor >}}7.3 Satellite Design Web Sites
 
-1.  {{% resource_link "9f0628ed-57b1-4084-946b-56adb4f7da24" "Small Spacecraft World Wide Web Links" %}}
-2.  {{% resource_link "9e373de6-84fc-4f27-8dc3-cff346cc134d" "NASA Online Cost Models" %}}
+1.  [Small Spacecraft World Wide Web Links](http://www.rand.org/publications/MR/MR864/appxF.html)
+2.  [NASA Online Cost Models](http://www.jsc.nasa.gov/bu2/)

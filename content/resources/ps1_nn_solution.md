@@ -5,6 +5,7 @@ description: 'Problem set and solution courtesy of Andrew Vaughan and David Woff
   Lagrange Point Orbits, describe the potential orbits about the stable and unstable
   Lagrange points.'
 file: /courses/16-851-satellite-engineering-fall-2003/dad9acba8d299208bff6ee2e151d2cf0_ps1_nn_solution.pdf
+file_size: 927111
 file_type: application/pdf
 learning_resource_types:
 - Assignments

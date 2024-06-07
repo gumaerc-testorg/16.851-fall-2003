@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for presentation of Lecture 8.
 file: /courses/16-851-satellite-engineering-fall-2003/89884fbee3e20ea53f328a3c6b6a23b4_l8_optics_3.pdf
+file_size: 1482139
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

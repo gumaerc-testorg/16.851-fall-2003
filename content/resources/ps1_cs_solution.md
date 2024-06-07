@@ -4,6 +4,7 @@ description: 'Problem set and solution provided by students Christopher Hynes an
   Steve Paschall. Problem statement: Design a launch vehicle decision tool to provide
   ease of launch vehicle selection given spacecraft design specifications.'
 file: /courses/16-851-satellite-engineering-fall-2003/c019f9b572b7219210ec9d581100876f_ps1_cs_solution.pdf
+file_size: 161690
 file_type: application/pdf
 learning_resource_types:
 - Assignments

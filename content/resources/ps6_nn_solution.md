@@ -8,6 +8,7 @@ description: 'Problem set and solution.
   artificial gravity. Create a tool to evaluate the feasibility of an artificial gravity
   Mars mission.'
 file: /courses/16-851-satellite-engineering-fall-2003/19ed0a2204d8415a47a1c8b9badb7d86_ps6_nn_solution.pdf
+file_size: 734803
 file_type: application/pdf
 learning_resource_types:
 - Assignments

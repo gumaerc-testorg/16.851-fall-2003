@@ -5,6 +5,7 @@ description: 'Supporting files courtesy of Seung Chung and Namiko Yamamoto. Used
   compute_Hohmann_transfer_test.m, compute_Hohmann_transfer_segments.m, compute_Hohmann_transfer.m,
   compute_high_energy_transfer_test.m, compute_high_energy_transfer.m, and compute_Delta_V_max_test.m.'
 file: /courses/16-851-satellite-engineering-fall-2003/5f40c20e8810099bd576ca03139f7116_ps2_cg_tools.zip
+file_size: 6118
 file_type: application/zip
 learning_resource_types:
 - Assignments

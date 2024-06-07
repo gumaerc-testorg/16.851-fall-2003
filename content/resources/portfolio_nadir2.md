@@ -2,6 +2,7 @@
 content_type: resource
 description: Sample student portfolio courtesy of Bill Nadir.
 file: /courses/16-851-satellite-engineering-fall-2003/8d0fbfb83d878206fdc0f970eb993e48_portfolio_nadir2.pdf
+file_size: 2929849
 file_type: application/pdf
 learning_resource_types:
 - Projects

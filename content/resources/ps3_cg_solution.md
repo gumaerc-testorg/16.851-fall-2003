@@ -6,6 +6,7 @@ description: 'Problem set and solution courtesy of Seung Chung and Matthew Richa
   designing the power subsystem. Characterize this degradation given orbit position
   as a function of time.'
 file: /courses/16-851-satellite-engineering-fall-2003/9578af5671a7b22b8ae452f96290956b_ps3_cg_solution.pdf
+file_size: 634802
 file_type: application/pdf
 learning_resource_types:
 - Assignments

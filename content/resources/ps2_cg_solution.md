@@ -5,6 +5,7 @@ description: 'Problem set and solution courtesy of Seung Chung and Namiko Yamamo
   orbit transfer and propulsion system combinations for a given mission requirement,
   in terms of desired orbit transfers.'
 file: /courses/16-851-satellite-engineering-fall-2003/e9e1eb82a6e428358fb07c1ee0fd2c3c_ps2_cg_solution.pdf
+file_size: 238573
 file_type: application/pdf
 learning_resource_types:
 - Assignments

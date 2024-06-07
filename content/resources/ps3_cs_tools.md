@@ -4,6 +4,7 @@ description: 'Supporting files. The ZIP file contains: thrustersizing.m, t_solar
   t_gg.m, t_bfield.m, t_aero.m, reacwheelsize.m, reacwheel_cmgsize.m, reachwheel&cmgsize.m,
   obj2actuator.m, momwheelsizing.m, magtorsizing.m, ae2rv.m, and ACSsize.m.'
 file: /courses/16-851-satellite-engineering-fall-2003/ccdc9a510b1ff680b4ad3103d6f49f12_ps3_cs_tools.zip
+file_size: 6730
 file_type: application/zip
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Slides for presentation of Lecture 20.
 file: /courses/16-851-satellite-engineering-fall-2003/35282c5f2e394c6567be2a64dd3d423a_l20_satellitettc.pdf
+file_size: 440980
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
