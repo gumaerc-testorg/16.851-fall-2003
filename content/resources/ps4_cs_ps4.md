@@ -7,6 +7,7 @@ description: 'Problem set.
   frequency and optimum data rate that minimized the combined mass requirements of
   telemetry, communications, and power subsystems.'
 file: /courses/16-851-satellite-engineering-fall-2003/198cd365118b566cf42583b9f140cfbd_ps4_cs_ps4.pdf
+file_size: 65086
 file_type: application/pdf
 learning_resource_types:
 - Assignments

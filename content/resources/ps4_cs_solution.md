@@ -5,6 +5,7 @@ description: 'Problem set and solution. Problem statement: A satellite being abl
   Determine the optimum communication frequency and optimum data rate that minimized
   the combined mass requirements of telemetry, communications, and power subsystems.'
 file: /courses/16-851-satellite-engineering-fall-2003/011313179d2d95d542e8cf5dde706e82_ps4_cs_solution.pdf
+file_size: 176613
 file_type: application/pdf
 learning_resource_types:
 - Assignments

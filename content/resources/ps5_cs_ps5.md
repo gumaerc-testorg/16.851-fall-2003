@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Problem Set 5 Question: Chynes'
 file: /courses/16-851-satellite-engineering-fall-2003/1c011fe85fd5b5c2e1bbbdfbaa072b3c_ps5_cs_ps5.pdf
+file_size: 14571
 file_type: application/pdf
 learning_resource_types:
 - Assignments
