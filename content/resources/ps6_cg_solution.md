@@ -6,7 +6,7 @@ description: 'Problem set and solution. Problem statement: Mars is of great scie
   Mars with humans. Design a software tool that performs a trade of the life support,
   propulsion, and power subsystems for a human transportation vehicle from Earth to
   Mars.'
-file: /courses/16-851-satellite-engineering-fall-2003/d6331ef18bb0ff2c694afab2b647e522_ps6_cg_solution.pdf
+file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/d6331ef18bb0ff2c694afab2b647e522_ps6_cg_solution.pdf
 file_size: 744101
 file_type: application/pdf
 learning_resource_types:

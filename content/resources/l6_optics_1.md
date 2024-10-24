@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for presentation of Lecture 6.
-file: /courses/16-851-satellite-engineering-fall-2003/33a224247fe1cbfa82f42ae633f55117_l6_optics_1.pdf
+file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/33a224247fe1cbfa82f42ae633f55117_l6_optics_1.pdf
 file_size: 785879
 file_type: application/pdf
 learning_resource_types:
