@@ -6,7 +6,7 @@ description: 'Problem set and solution
   the performance and lifetime of operational space systems. Design a tool that helps
   size ACS actuators for a satellite mission given specific mission objectives and
   environmental disturbances.'
-file: /courses/16-851-satellite-engineering-fall-2003/971ab386a715dff9b51ab922459bae53_ps3_cs_solution.pdf
+file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/971ab386a715dff9b51ab922459bae53_ps3_cs_solution.pdf
 file_size: 257532
 file_type: application/pdf
 learning_resource_types:

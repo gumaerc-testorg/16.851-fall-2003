@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for presentation of Lecture 14.
-file: /courses/16-851-satellite-engineering-fall-2003/366250c43b9cc22cbaabac6b071ba954_l14_structures.pdf
+file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/366250c43b9cc22cbaabac6b071ba954_l14_structures.pdf
 file_size: 1517392
 file_type: application/pdf
 learning_resource_types:

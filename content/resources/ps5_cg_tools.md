@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Supporting Tools File for Problem Set 5: Chung'
-file: /courses/16-851-satellite-engineering-fall-2003/3fe083e63b780c311843205fb7ad937e_ps5_cg_tools.zip
+file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/3fe083e63b780c311843205fb7ad937e_ps5_cg_tools.zip
 file_size: 7641
 file_type: application/zip
 learning_resource_types:
