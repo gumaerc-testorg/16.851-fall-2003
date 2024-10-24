@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for presentation of Lecture 1.
-file: /courses/16-851-satellite-engineering-fall-2003/50f5d348d79d68dc5ce2b39b5af16283_l1_launch_system.pdf
+file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/50f5d348d79d68dc5ce2b39b5af16283_l1_launch_system.pdf
 file_size: 253097
 file_type: application/pdf
 learning_resource_types:

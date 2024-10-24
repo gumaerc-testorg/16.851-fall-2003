@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Problem Set 4 (Orbits, Power, and Communication): Matthew Richards,
   and Anna Silbovitz'
-file: /courses/16-851-satellite-engineering-fall-2003/801d6f8e7b1767d24149d6e27c51010f_ps4_rd_solution.pdf
+file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/801d6f8e7b1767d24149d6e27c51010f_ps4_rd_solution.pdf
 file_size: 508056
 file_type: application/pdf
 learning_resource_types:
