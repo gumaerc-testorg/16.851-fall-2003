@@ -7,7 +7,7 @@ description: 'Problem set and solution.
   on the astronauts during prolonged spaceflight. A possible solution to this is using
   artificial gravity. Create a tool to evaluate the feasibility of an artificial gravity
   Mars mission.'
-file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/19ed0a2204d8415a47a1c8b9badb7d86_ps6_nn_solution.pdf
+file: /courses/16-851-satellite-engineering-fall-2003/19ed0a2204d8415a47a1c8b9badb7d86_ps6_nn_solution.pdf
 file_size: 734803
 file_type: application/pdf
 learning_resource_types:

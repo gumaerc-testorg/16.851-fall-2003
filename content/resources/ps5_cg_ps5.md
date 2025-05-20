@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Problem Set 5 (Structure, ACS and Propulsion): Seung Chung, and Anna
   Silbovitz'
-file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/287f099c7f3cef58d6eb21a2213accd4_ps5_cg_ps5.pdf
+file: /courses/16-851-satellite-engineering-fall-2003/287f099c7f3cef58d6eb21a2213accd4_ps5_cg_ps5.pdf
 file_size: 69580
 file_type: application/pdf
 learning_resource_types:
