@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for presentation of Lecture 10.
-file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/7bd38a14f1fd0c42340a97966141afc6_l10_emformflight.pdf
+file: /courses/16-851-satellite-engineering-fall-2003/7bd38a14f1fd0c42340a97966141afc6_l10_emformflight.pdf
 file_size: 2726893
 file_type: application/pdf
 learning_resource_types:

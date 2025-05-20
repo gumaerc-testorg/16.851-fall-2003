@@ -5,7 +5,7 @@ description: 'Problem set and solution. Problem statement: Thermal radiation is 
   for thermal effects, but it must also be inexpensive and reasonable to build. Design
   a spacecraft structure to account for thermal radiation effects while minimizing
   cost.'
-file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/1c0ba7f6631280f20f9c72eade829ddb_ps6_cs_solution.pdf
+file: /courses/16-851-satellite-engineering-fall-2003/1c0ba7f6631280f20f9c72eade829ddb_ps6_cs_solution.pdf
 file_size: 378615
 file_type: application/pdf
 learning_resource_types:
