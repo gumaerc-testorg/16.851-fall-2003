@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten notes from Lecture 4.
-file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/087250a0b580a30a2b79544d9bc9f122_l4_propulsion.pdf
+file: /courses/16-851-satellite-engineering-fall-2003/087250a0b580a30a2b79544d9bc9f122_l4_propulsion.pdf
 file_size: 423637
 file_type: application/pdf
 learning_resource_types:

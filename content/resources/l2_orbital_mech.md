@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten notes from Lecture 2.
-file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/4d385d5034d5812233944921d570b067_l2_orbital_mech.pdf
+file: /courses/16-851-satellite-engineering-fall-2003/4d385d5034d5812233944921d570b067_l2_orbital_mech.pdf
 file_size: 117909
 file_type: application/pdf
 learning_resource_types:
