@@ -7,7 +7,7 @@ description: 'Problem set and solution. Problem statement: The US manned space p
   create opportunities for space agencies to move the frontiers a little farther and
   extend the presence of man on orbit, possibly on board a new Space Station. You,
   a recent MIT grad, have been approached by NASA to design the next US Space Station.'
-file: /courses/16-851-satellite-engineering-fall-2003/18912071e24410d771d7b745569eaee3_ps5_nn_solution.pdf
+file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/18912071e24410d771d7b745569eaee3_ps5_nn_solution.pdf
 file_size: 257571
 file_type: application/pdf
 learning_resource_types:

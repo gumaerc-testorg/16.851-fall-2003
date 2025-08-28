@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for presentation of Lecture 15.
-file: /courses/16-851-satellite-engineering-fall-2003/48d9bf8fdee0a10cafa7578bac23d73f_l15_costmodellec.pdf
+file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/48d9bf8fdee0a10cafa7578bac23d73f_l15_costmodellec.pdf
 file_size: 935586
 file_type: application/pdf
 learning_resource_types:

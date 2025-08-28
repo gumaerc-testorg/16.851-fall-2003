@@ -4,7 +4,7 @@ description: 'Problem statement and solution courtesy of Christopher Hynes and K
   Weiss. Problem statement: Determine the surface area of a solar panel needed to
   produce enough power to meet the requirements of a given spacecraft, considering
   altitude and inclination and type of solar cell.'
-file: /courses/16-851-satellite-engineering-fall-2003/7555a121bb1544c25136b16869f7448c_ps2_cs_solution.pdf
+file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/7555a121bb1544c25136b16869f7448c_ps2_cs_solution.pdf
 file_size: 311898
 file_type: application/pdf
 learning_resource_types:
