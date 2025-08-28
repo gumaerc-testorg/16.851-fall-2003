@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Problem Set 5 (Structure, Attitude Control, and Propulsion): Chung'
-file: /courses/16-851-satellite-engineering-fall-2003/cea0cd8fd6fb3cfb20330078fa9083a0_ps5_cg_solution.pdf
+file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/cea0cd8fd6fb3cfb20330078fa9083a0_ps5_cg_solution.pdf
 file_size: 319226
 file_type: application/pdf
 learning_resource_types:
