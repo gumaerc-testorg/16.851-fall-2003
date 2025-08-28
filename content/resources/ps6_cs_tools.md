@@ -3,7 +3,7 @@ content_type: resource
 description: 'Supporting files.
 
   The ZIP file contains: thermal.m, strength.m, SATELLITE_COST.m, mat.m, and mat.asv.'
-file: /courses/16-851-satellite-engineering-fall-2003/22b54903d74608c069e4c08fe1bafcb1_ps6_cs_tools.zip
+file: /ol-ocw-studio-app/courses/16-851-satellite-engineering-fall-2003/22b54903d74608c069e4c08fe1bafcb1_ps6_cs_tools.zip
 file_size: 10711
 file_type: application/zip
 learning_resource_types:
